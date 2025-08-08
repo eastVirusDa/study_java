@@ -1,3 +1,5 @@
+package javaJungSuk_6;
+
 public class Exercise6_23 {
     public static int max(int[] arr)
     {

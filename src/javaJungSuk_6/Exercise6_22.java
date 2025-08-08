@@ -1,3 +1,5 @@
+package javaJungSuk_6;
+
 public class Exercise6_22 {
     public static boolean isNumber(String str){
         for(int i = 0; i < str.length(); i++){
