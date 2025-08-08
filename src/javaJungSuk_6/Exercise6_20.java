@@ -1,3 +1,5 @@
+package javaJungSuk_6;
+
 public class Exercise6_20 {
     public static int[] shuffle(int[] arr){
         int[] result = arr.clone();

@@ -1,3 +1,5 @@
+package javaJungSuk_6;
+
 class MyTv {
     boolean isPowerOn;
     int channel;
